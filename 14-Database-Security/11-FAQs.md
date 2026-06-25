@@ -32,4 +32,4 @@ Attack using malicious SQL statements.
 
 ### Why are backups important?
 
-For recovery after failures or attacks.
+For recovery after failures or attacks. 

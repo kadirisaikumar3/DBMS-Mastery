@@ -34,4 +34,4 @@ Useful for multi-column searches.
 
 Thinking Indexes only improve performance.
 
-Indexes improve reads but may slow writes.
+Indexes improve reads but may slow writes.  
